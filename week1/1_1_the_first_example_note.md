@@ -1,0 +1,3 @@
+- 如果只是编译hello.cpp，可以使用指令：g++ hello.cpp
+- 如果指定特定的标准来编译源代码，例如用C++11标准，可以使用指令：g++ hello.cpp --std=c++11
+- 使用-o选项来修改生成的可执行文件的名字，例如：g++ hello.cpp --std=c++11 -o hello
